@@ -4,4 +4,6 @@ openpyxl
 plotly
 scikit-learn
 transformers 
+fpdf2
+
 torch
