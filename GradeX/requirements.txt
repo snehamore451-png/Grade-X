@@ -3,7 +3,8 @@ pandas
 openpyxl
 plotly
 scikit-learn
-transformers 
-fpdf2
-
+transformers
 torch
+fpdf2
+reportlab
+kaleido
